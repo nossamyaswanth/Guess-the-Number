@@ -1,2 +1,2 @@
 # Guess-the-Number
-This program will read a random number and ask to user to guess it.
+This program will read a random number and ask to user to guess it. This is just like a small game program in which user has to guess correct number which is generated randomly. Here program will give 5 attempts to guess the number, on each attempt program will inform that entered number is less than or greater than the random generated number so that user can easily guess that particular number.
